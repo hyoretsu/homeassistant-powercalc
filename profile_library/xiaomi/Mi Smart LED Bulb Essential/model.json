@@ -1,4 +1,7 @@
 {
+  "aliases": [
+    "yeelink.light.color5"
+  ],
   "calculation_strategy": "lut",
   "created_at": "2025-09-25T01:09:05.836322",
   "measure_description": "Measured with utils/measure script",
